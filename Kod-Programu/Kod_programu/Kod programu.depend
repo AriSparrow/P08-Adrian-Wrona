@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733351967 source:c:\users\adria\onedrive\pulpit\p08 adrian wrona\kod programu\kod programu\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+

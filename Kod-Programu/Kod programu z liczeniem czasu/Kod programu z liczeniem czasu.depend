@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733351437 source:c:\users\adria\onedrive\pulpit\p08 adrian wrona\kod programu\kod programu z liczeniem czasu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
